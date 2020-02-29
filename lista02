@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1,iptvtools_3
+http://us14.server.kpdelta.xyz/HD_NAT_GEO/video.m3u8?token=97498f95798c039ce1b561cb9b542329
+#EXTINF:-1,iptvtools_6
+http://us.khotel.live/HD_ANIMAL_PLANET_ALTER/video.m3u8?token=97498f95798c039ce1b561cb9b542329
+#EXTINF:-1,CARTOON NETWORK
+http://list.deeplist.nl/live/fer001/nanda987/1095.m3u8
+#EXTINF:-1,iptvtools_8
+http://us14.server.kpbravo.xyz/HD_H2/video.m3u8?token=97498f95798c039ce1b561cb9b542329
+#EXTINF:-1,iptvtools_9
+http://us12.server.kkcharlie.xyz/HD_NAT_GEO_WILD/video.m3u8?token=97498f95798c039ce1b561cb9b542329
+#EXTINF:-1,iptvtools_11
+http://us12.server.kecho.store/HD_BOOMERANG_ALTER/video.m3u8?token=97498f95798c039ce1b561cb9b542329
+#EXTINF:-1,iptvtools_13
+http://us12.server.kkbravo.xyz/HD_CINEMAX_ALTER/video.m3u8?token=97498f95798c039ce1b561cb9b542329
+#EXTINF:-1,COMBATE FULL HD
+http://list.deeplist.nl/live/fer001/nanda987/52650.m3u8
+#EXTINF:-1,COMBATE HD
+http://list.deeplist.nl/live/fer001/nanda987/1088.m3u8
+#EXTINF:-1,iptvtools_20
+http://us13.server.kpindia.xyz/HD_HBO_2/video.m3u8?token=97498f95798c039ce1b561cb9b542329
+#EXTINF:-1,iptvtools_21
+http://ge.server.kvictor.live/HD_FOX_ALTER/video.m3u8?token=97498f95798c039ce1b561cb9b542329
+#EXTINF:-1,iptvtools_22
+http://us12.server.kkalfa.xyz/HD_ESPN_2/video.m3u8?token=97498f95798c039ce1b561cb9b542329
+#EXTINF:-1,iptvtools_27
+http://us12.server.kkalfa.xyz/HD_DISCOVERY_ALTER/video.m3u8?token=97498f95798c039ce1b561cb9b542329
+#EXTINF:-1,DISCOVERY CHANNEL FULL HD
+http://list.deeplist.nl/live/fer001/nanda987/52605.m3u8
+#EXTINF:-1,iptvtools_30
+http://us.server.klima.live/HD_DISCOVERY_SCIENCE_ALTER/video.m3u8?token=97498f95798c039ce1b561cb9b542329
